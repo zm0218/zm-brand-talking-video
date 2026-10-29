@@ -1,0 +1,32 @@
+{
+  "brief": {
+    "confirmed": false,
+    "audience": "本期受众",
+    "topic": "本期品牌访谈主题",
+    "goal": "本次观看目标",
+    "verified_facts": [],
+    "cta": ""
+  },
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "theme": "natural",
+  "font_family": "Noto Sans CJK SC",
+  "clips": [
+    {
+      "source": "media/interview.mp4",
+      "in": 0,
+      "out": 8,
+      "layout": "full",
+      "fit": "contain",
+      "zoom": 1,
+      "source_has_captions": false
+    }
+  ],
+  "captions": [
+    {"start": 0.3, "end": 3, "text": "示例：保留[[完整观点]]"},
+    {"start": 3.2, "end": 6.5, "text": "时码需对应本期原声"}
+  ],
+  "titles": [
+    {"start": 0.2, "end": 2, "text": "[[品牌访谈]]", "y": 0.16}
+  ]
+}
